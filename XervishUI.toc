@@ -1,0 +1,11 @@
+## Interface: 20503
+## Author: Xervish
+## Title: |cFFFF7800Xervish|rUI
+## Notes: A consistently minimal and awesome UI.
+
+Common\Config.lua
+Common\Utils.lua
+
+# Modules
+Modules\Defaults\Defaults.lua
+Modules\Data\Data.lua
